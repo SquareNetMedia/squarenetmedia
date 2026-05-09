@@ -1,4 +1,4 @@
-![image](https://github.com/SquareNetMedia/img/blob/459a628862ddcb2de996d3775689793040c8c5bd/1500x500.jpg)
+![image](https://github.com/SquareNetMedia/squarenetmedia/blob/main/SquareNetMedia.jpg)
 
 Hi! I'm a web developer who creates online websites and applications.
 
